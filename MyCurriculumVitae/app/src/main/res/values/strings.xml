@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">My Curriculum Vitae</string>
+    <string name="title">My Curriculum Vitae</string>
+    <string name="hint_seeCV">Wanna see my Curriculum?</string>
+    <string name="btn_seeCV_submitAnswer">Submit answer</string>
+    <string name="myCV">
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ligula erat, tristique a nisi id, consequat interdum tellus. Integer ornare ex vitae nisi porttitor dignissim. Aliquam sit amet lorem interdum, consequat mi et, gravida mi. Nullam vel sollicitudin risus, non blandit nibh. Duis rutrum enim vel tempus volutpat. Donec aliquam enim id libero fermentum tempus. Nam aliquet dolor sit amet sollicitudin cursus. Integer id semper odio. Curabitur pharetra lectus aliquam orci venenatis, at gravida nisi convallis. Mauris consequat diam nulla, a scelerisque tellus rhoncus at. Ut luctus eu lectus quis tincidunt. Proin elementum massa quis auctor scelerisque.
+\n\n
+Morbi facilisis magna et auctor consectetur. Aliquam convallis, purus vel convallis tempus, purus ipsum malesuada elit, id tristique risus elit vel turpis. Maecenas quis augue elementum, euismod enim in, congue nisi. Aenean vitae rhoncus nunc. Vivamus suscipit, velit sed tincidunt vehicula, nulla lacus feugiat ligula, in tristique ligula elit vitae diam. Fusce sed lorem hendrerit nulla vulputate ultrices. Mauris euismod lorem eget mi porta imperdiet.
+\n\n
+Pellentesque luctus euismod tortor. In hac habitasse platea dictumst. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin dictum pretium arcu sed tempus. Duis ut tincidunt ligula. Cras dignissim sodales metus ac convallis. Donec nec mollis diam. Maecenas suscipit finibus nulla euismod sollicitudin. Duis ultrices quam non neque congue, vel dictum nibh accumsan. Mauris id convallis tortor.
+    </string>
 </resources>
