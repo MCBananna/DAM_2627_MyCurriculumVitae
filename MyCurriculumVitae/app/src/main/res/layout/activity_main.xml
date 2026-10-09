@@ -39,10 +39,34 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/myCV"
-        android:textSize="14sp"
-        android:textColor="@color/black"
+        android:text="Bernardo Ferreira"
+        android:textSize="30sp"
+        android:textColor="@color/blue"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="@font/balsamiq_sans"
         />
 
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/balsamiq_sans"
+                android:padding="10dp"
+                android:text="@string/myCV"
+                android:textColor="@color/black"
+                android:textStyle="italic"
+                android:textSize="25sp" />
+
+        </LinearLayout>
+    </ScrollView>
 
 </LinearLayout>
